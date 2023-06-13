@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-japanese:16.0.0-beta4@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/ac1ff205a91ea90a7a7b62eac09b9d2a/transformed/jetified-text-recognition-japanese-16.0.0-beta4/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/ac1ff205a91ea90a7a7b62eac09b9d2a/transformed/jetified-text-recognition-japanese-16.0.0-beta4/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/ac1ff205a91ea90a7a7b62eac09b9d2a/transformed/jetified-text-recognition-japanese-16.0.0-beta4/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/c80c4cabdf0b2066c28b429421c9614a/transformed/jetified-text-recognition-japanese-16.0.0-beta4/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/c80c4cabdf0b2066c28b429421c9614a/transformed/jetified-text-recognition-japanese-16.0.0-beta4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-japanese/16.0.0-beta4/ed540d8c50c12a40f1d0146622d03ad9485a5303/text-recognition-japanese-16.0.0-beta4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.3.5@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/a02465767662c8053548afa16453b75f/transformed/navigation-common-2.3.5/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/a02465767662c8053548afa16453b75f/transformed/navigation-common-2.3.5/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/a02465767662c8053548afa16453b75f/transformed/navigation-common-2.3.5/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/b08c7ad80b85d1ff5ca611c9114889c3/transformed/navigation-common-2.3.5/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/b08c7ad80b85d1ff5ca611c9114889c3/transformed/navigation-common-2.3.5/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/b08c7ad80b85d1ff5ca611c9114889c3/transformed/navigation-common-2.3.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.5/8ac119554c336ee331c12b667b4e3f5f725616da/navigation-common-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-devanagari:16.0.0-beta4@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/3a4b2ad1aee7c3b334f9109ad04967e7/transformed/jetified-text-recognition-devanagari-16.0.0-beta4/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/3a4b2ad1aee7c3b334f9109ad04967e7/transformed/jetified-text-recognition-devanagari-16.0.0-beta4/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/3a4b2ad1aee7c3b334f9109ad04967e7/transformed/jetified-text-recognition-devanagari-16.0.0-beta4/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/b8e75cbbd895c3ae6f57f2015a414467/transformed/jetified-text-recognition-devanagari-16.0.0-beta4/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/b8e75cbbd895c3ae6f57f2015a414467/transformed/jetified-text-recognition-devanagari-16.0.0-beta4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-devanagari/16.0.0-beta4/8dd722cd23366ae2b634592e549e0ec8ddb7870a/text-recognition-devanagari-16.0.0-beta4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

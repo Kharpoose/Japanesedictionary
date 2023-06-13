@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-installations:17.0.1@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/09d881f10ec4736af1b8767f17ffe23b/transformed/jetified-firebase-installations-17.0.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/09d881f10ec4736af1b8767f17ffe23b/transformed/jetified-firebase-installations-17.0.1/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/09d881f10ec4736af1b8767f17ffe23b/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/8a38fb1495b56e2d4a46b6aed53e6c72/transformed/jetified-firebase-installations-17.0.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/8a38fb1495b56e2d4a46b6aed53e6c72/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.firebase/firebase-installations/17.0.1/a5de27e8894c107c06e27ee0bfdf8c24216354a2/firebase-installations-17.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

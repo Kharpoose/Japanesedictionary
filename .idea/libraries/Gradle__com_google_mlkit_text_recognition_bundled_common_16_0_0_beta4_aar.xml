@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-bundled-common:16.0.0-beta4@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/d6de50a33ab79eb348eb81aea8889acf/transformed/jetified-text-recognition-bundled-common-16.0.0-beta4/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/d6de50a33ab79eb348eb81aea8889acf/transformed/jetified-text-recognition-bundled-common-16.0.0-beta4/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/d6de50a33ab79eb348eb81aea8889acf/transformed/jetified-text-recognition-bundled-common-16.0.0-beta4/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/fa13068590e512caf9371f084da6da39/transformed/jetified-text-recognition-bundled-common-16.0.0-beta4/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/fa13068590e512caf9371f084da6da39/transformed/jetified-text-recognition-bundled-common-16.0.0-beta4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-bundled-common/16.0.0-beta4/ace98f39b262c59be4be4d52b871d1ba5dfff723/text-recognition-bundled-common-16.0.0-beta4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

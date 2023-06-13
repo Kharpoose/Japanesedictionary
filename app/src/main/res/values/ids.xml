@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtViewResults" type="id" />
+    <item name="txtViewResults2" type="id" />
+    <item name="editTxtSearch2" type="id" />
+    <item name="btnSearch2" type="id" />
+    <item name="txtResults2" type="id" />
+    <item name="action_settings" type="id" />
+</resources>

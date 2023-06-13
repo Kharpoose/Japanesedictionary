@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.odml:image:1.0.0-beta1@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/6da2858d26ba60356b01f5331d91f293/transformed/jetified-image-1.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/6da2858d26ba60356b01f5331d91f293/transformed/jetified-image-1.0.0-beta1/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/6da2858d26ba60356b01f5331d91f293/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/542100c15fbe0993722b2b56650ce317/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/542100c15fbe0993722b2b56650ce317/transformed/jetified-image-1.0.0-beta1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.android.odml/image/1.0.0-beta1/aa9d23e3124a588104fe600f42af0e192f732599/image-1.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

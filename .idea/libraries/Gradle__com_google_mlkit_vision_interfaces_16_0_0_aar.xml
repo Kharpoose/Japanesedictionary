@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:vision-interfaces:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/db751b83a4f44a33fe58f623cc473bc0/transformed/jetified-vision-interfaces-16.0.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/db751b83a4f44a33fe58f623cc473bc0/transformed/jetified-vision-interfaces-16.0.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/db751b83a4f44a33fe58f623cc473bc0/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/transforms-3/6181bc2dd236d4c7e7580c4e5d0e6f52/transformed/jetified-vision-interfaces-16.0.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/caches/transforms-3/6181bc2dd236d4c7e7580c4e5d0e6f52/transformed/jetified-vision-interfaces-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/caches/modules-2/files-2.1/com.google.mlkit/vision-interfaces/16.0.0/745e6911e713b86e7e0548dac2a61a0c595faab/vision-interfaces-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
